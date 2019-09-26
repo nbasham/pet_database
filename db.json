@@ -2,7 +2,7 @@
 	"pets": [
 		{ "id": 0, "firstName": "Josie", "breed":  "Labrador Retriever", "animalType": 0, "dob": "", "isFemale": true, "isSpayedOrNeutered": true }
 	],
-	"petOwner": [
+	"petOwners": [
 		{ "id": 0, "pets": [0], "firstName": "Norman", "lastName": "Basham" }
 	],
 	"vets": [
