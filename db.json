@@ -1,0 +1,11 @@
+{
+	"pets": [
+		{ "id": 0, "firstName": "Josie", "breed":  "Labrador Retriever", "animalType": 0, "dob": "", "isFemale": true, "isSpayedOrNeutered": true }
+	],
+	"petOwner": [
+		{ "id": 0, "pets": [0], "firstName": "Norman", "lastName": "Basham" }
+	],
+	"vets": [
+		{"id": 0, "petOwners": [0], "firstName": "Heather", "lastName": "Oxford" }
+	]
+}
